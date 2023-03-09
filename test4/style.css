@@ -1,0 +1,22 @@
+body{
+    background-color:rgb(245, 224, 188) ;
+    color: blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    margin: 150px 150px;
+}
+.j-send-request {
+    background-color:cornflowerblue;
+    color: aliceblue;
+    border: 2px solid blueviolet;
+    border-radius: 25px;
+}
+.j-input {
+    background-color:aliceblue;
+    color: cornflowerblue;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+.j-result {
+    margin: 15px 0px 0px 50pxs;;
+}

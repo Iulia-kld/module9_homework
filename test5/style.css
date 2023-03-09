@@ -1,0 +1,35 @@
+body{
+    background-color:rgb(245, 224, 188) ;
+    color: blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+  text-align: center;
+  margin: 70px auto;
+}
+p {
+    color: rgb(125, 15, 228);
+    font-size: 18px;
+    margin-left: 20px;
+}
+.j-send-request {
+    background-color:cornflowerblue;
+    color: aliceblue;
+    border: 2px solid blueviolet;
+    border-radius: 25px;
+    margin: 30px 0px 30px 20px;
+    width: 150px;
+}
+.j-input {
+    background-color:aliceblue;
+    color: cornflowerblue;
+    border-radius: 5px;
+    margin-left: 10px;
+    height: 20px;
+}
+.imageDiv {
+   margin: 50px;
+}
+
+img {
+    width: 500px;
+}
